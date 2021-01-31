@@ -54,3 +54,14 @@ the failure
 - string
 
 *******************************************
+
+### Common port numbers
+
+| Por code | Service |
+|----|-----|
+| 20 |	FTP |
+| 22	| SSH |
+|80	| http |
+|443 |	https| 
+
+#### SSH uses TCP connection

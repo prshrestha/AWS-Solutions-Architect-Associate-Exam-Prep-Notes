@@ -21,3 +21,5 @@ Here are some review notes that I made for quick review of the material.
 [5. SNS/SQS/MQ](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/SNSSQS.md)
 
 [6. Cloudwatch and Cloudtrail](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/Cloudwatch_Cloudtrail.md)
+
+[7. Kinesis](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/Kinesis.md)

@@ -1,14 +1,11 @@
 # AWS-Solutions-Architect-Associate-Exam-Prep-Notes
 AWS Solutions Architect Associate Exam Prep Notes
 
-I took the test in early 2020 and used the following class from ACloudGuru to prep for the test
-https://www.udemy.com/share/101WaCAEQfdVlUQHw=/
+I took the test in early 2020 and used the following class from [ACloudGuru to prep for the test](https://www.udemy.com/share/101WaCAEQfdVlUQHw=/)
 
-Then I used the mock test from Jon Bonso for practice
-https://www.udemy.com/share/102DhnAEQfdVlUQHw=/
+Then I used the mock test from [Jon Bonso for practice.](https://www.udemy.com/share/102DhnAEQfdVlUQHw=/)
 
 Here are some notes that I made for quick review of the material
-
 
 ## VPC Notes
 
@@ -21,12 +18,11 @@ Region
 
 *******************************************
 VPC
-Based on this video: 
-https://www.youtube.com/watch?v=LX5lHYGFcnA
+[Based on this video](https://www.youtube.com/watch?v=LX5lHYGFcnA)
 
 ![VPC Architecture](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/VPC%20Architecture.png)
 
-From <https://www.youtube.com/watch?v=LX5lHYGFcnA>
+[Source](https://www.youtube.com/watch?v=LX5lHYGFcnA)
 
 VPC -> subnet -> EC2 or web server or DB server
 
@@ -46,7 +42,7 @@ Instead you can add a new VPC with CIDR with say 10.0.1.0/24 (meaning additional
 ￼
 ![VPC Components](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Components%20of%20VPC.png)
 
-From <https://www.youtube.com/watch?v=LX5lHYGFcnA>
+[Source](https://www.youtube.com/watch?v=LX5lHYGFcnA)
 
 ## Amazon Virtual Private Cloud (VPC) 
 - a logical data center or virtual data center in Cloud. 

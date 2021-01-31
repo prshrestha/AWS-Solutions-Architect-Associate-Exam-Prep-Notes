@@ -79,9 +79,9 @@ Shared File storage -> connect to EC2
 
 - for private dedicated connection from on premise resources to your VPC
 
-![VPC Endpoints](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Direct%Connect.png)
+![VPC Endpoints](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Direct%20Connect.png)
 
-![VPC Endpoints](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Direct%Connect%202.png)
+![VPC Endpoints](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Direct%20Connect%202.png)
 
 [Source](https://www.youtube.com/watch?v=LX5lHYGFcnA)
 

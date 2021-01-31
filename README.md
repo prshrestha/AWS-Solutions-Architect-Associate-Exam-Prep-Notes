@@ -23,7 +23,7 @@ Region
 VPC
 Based on this video - https://www.youtube.com/watch?v=LX5lHYGFcnA
 
-
+!(https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/VPC%20Architecture.png)
 
 
 Image Source: https://www.youtube.com/watch?v=LX5lHYGFcnA

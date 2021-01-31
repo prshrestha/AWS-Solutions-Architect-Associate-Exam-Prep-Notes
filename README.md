@@ -27,3 +27,5 @@ Here are some review notes that I made for quick review of the material.
 [8. Route 53](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/route53.md)
 
 [. General Stuff](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/General_Stuff.md)
+
+[. Some Services](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/services.md)

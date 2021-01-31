@@ -1,4 +1,4 @@
-## General Knowledge
+## General Stuff
 
 ### Stateful vs. Stateless
 #### Security groups are stateful

@@ -1,7 +1,7 @@
 # AWS-Solutions-Architect-Associate-Exam-Prep-Notes
 AWS Solutions Architect Associate Exam Prep Notes
 
-I took the test in early 2020 and used the following class from [ACloudGuru to prep for the test](https://www.udemy.com/share/101WaCAEQfdVlUQHw=/)
+I took the test in early 2020 and used the following class from [ACloudGuru to prep for the test.](https://www.udemy.com/share/101WaCAEQfdVlUQHw=/)
 
 Then I used the mock test from [Jon Bonso for practice.](https://www.udemy.com/share/102DhnAEQfdVlUQHw=/)
 
@@ -103,8 +103,7 @@ The following diagram shows a VPC that has been configured with subnets in multi
 
 ![](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Destination.png)
 ￼
-
-From <https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html#vpc-subnet-basics>
+[Source](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html#vpc-subnet-basics)
 
 ## Auto scaling group 
 cool down period
@@ -166,7 +165,7 @@ You can use the following types of connections for a connection between an inter
 - AWS Direct Connect
 - AWS Site-to-Site VPN
 
-NAT Gateway
+## NAT Gateway
 - Helps private subnet talk to internet or other AWS services via outbound connection (does NAT translation of private subnets)
 - Private subnet talks to NAT Gateway in public subnet and then the response on the same connection is provided back to the private subnet.
 - Connection from outside/public internet is not allowed.

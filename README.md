@@ -7,4 +7,4 @@ Then I used the mock test from [Jon Bonso for practice.](https://www.udemy.com/s
 
 Here are some notes that I made for quick review of the material.
 
-[VPC]()
+[1. VPC](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/VPC.md)

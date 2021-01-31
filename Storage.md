@@ -88,3 +88,24 @@ Shared File storage -> connect to EC2
 ### Data transfer
 
 ![VPC Endpoints](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Connect.png)
+
+
+## S3 Select/Redshift Spectrum/Athena
+
+### S3 Glacier Select 
+- Write SQL like queries to filter contents of S3
+- Helps to retrieve only the data you need to load into another system
+- Works on CSV, JSON, GZIP, BZIP2 etc
+
+*******************************************
+### Amazon Athena
+- an interactive query service that makes it easy to analyze data directly in Amazon Simple Storage Service (Amazon S3) using standard SQL
+- Its for quick ad hoc query
+- Athena is serverless, so there is no infrastructure to set up or manage, and you pay only for the queries you run.
+
+*******************************************
+### Amazon Redshift Spectrum
+- run SQL like queries in your data as-is, where-is on data stored in S3
+- If you have huge data set that needs to stored in structured format or warehoused we use Redshift to store and use Redshift Spectrum to query
+
+*******************************************

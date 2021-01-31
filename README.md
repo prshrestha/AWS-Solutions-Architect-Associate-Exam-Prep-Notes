@@ -13,3 +13,5 @@ Here are some notes that I made for quick review of the material.
 [1. VPC](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/VPC.md)
 
 [2. Fargate and EKS](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/Fargate_EKS.md)
+
+[3. Fargate and EKS](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/Databases.md)

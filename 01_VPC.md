@@ -185,11 +185,13 @@ AWS offers two kinds of NAT devices—a NAT gateway or a NAT instance. We recomm
 ## Subnets and Routing
 
 ![](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Subnets.png)￼
+
 [Source](https://www.youtube.com/watch?v=LX5lHYGFcnA)
 
 *******************************************
 
 ![](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/Routing.png)
+
 [Source](https://www.youtube.com/watch?v=LX5lHYGFcnA)
 
 *******************************************

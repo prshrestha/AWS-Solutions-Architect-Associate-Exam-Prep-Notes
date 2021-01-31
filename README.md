@@ -8,10 +8,10 @@ Then I used the mock test from [Jon Bonso for practice.](https://www.udemy.com/s
 The course has been updated to reflect new exam material so you should find the latest course based on your need.
 Same goes for practice tests.
 
-Here are some notes that I made for quick review of the material.
+Here are some review notes that I made for quick review of the material.
 
 [1. VPC](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/VPC.md)
 
 [2. Fargate and EKS](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/Fargate_EKS.md)
 
-[3. Fargate and EKS](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/Databases.md)
+[3. Databases](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/Databases.md)

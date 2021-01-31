@@ -24,4 +24,6 @@ Here are some review notes that I made for quick review of the material.
 
 [7. Kinesis](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/Kinesis.md)
 
+[8. Kinesis](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/route53.md)
+
 [. General Stuff](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/General_Stuff.md)

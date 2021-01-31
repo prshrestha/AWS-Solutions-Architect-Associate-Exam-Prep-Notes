@@ -28,6 +28,8 @@ Here are some review notes that I made for quick review of the material.
 
 [9. RAID Config](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/raid_config.md)
 
+[10. EC2 Pricing](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/ec2_pricing.md)
+
 [. General Stuff](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/General_Stuff.md)
 
 [. Some Services](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/services.md)

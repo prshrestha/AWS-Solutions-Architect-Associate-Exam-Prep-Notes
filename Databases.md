@@ -44,6 +44,7 @@ a fully managed, highly available, in-memory cache that can reduce Amazon Dynamo
 
 *******************************************
 OLAP - Redshift
+
 OLTP - RDS and/or DynamoDB
 
 *******************************************

@@ -22,7 +22,7 @@ To restrict access to content that you serve from Amazon S3 buckets, you create 
 - a feature of Amazon CloudFront that lets you run code closer to users of your application, which improves performance and reduces latency. 
 - With Lambda@Edge, you don't have to provision or manage infrastructure in multiple locations around the world. You pay only for the compute time you consume - there is no charge when your code is not running
 
-![VPC Endpoints](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/lambda_at_edge_kinesis.png.png)
+![Lambda@Edge](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/images/lambda_at_edge_kinesis.png)
 
 ### CNAME
 Maps your domain example.com to cloudfront domain like [d111111abcdef8.cloudfront.net](d111111abcdef8.cloudfront.net) 

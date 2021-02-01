@@ -57,7 +57,7 @@ the failure
 
 ### Common port numbers
 
-| Por code | Service |
+| Port code | Service |
 |----|-----|
 | 20 |	FTP |
 | 22	| SSH |

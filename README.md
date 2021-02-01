@@ -34,4 +34,4 @@ Here are some review notes that I made for quick review of the material.
 
 [General Stuff](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/General_Stuff.md)
 
-[ome Services](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/services.md)
+[Some Services](https://github.com/prshrestha/AWS-Solutions-Architect-Associate-Exam-Prep-Notes/blob/main/services.md)

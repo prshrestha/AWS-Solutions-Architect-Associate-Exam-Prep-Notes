@@ -14,9 +14,7 @@
 - acceptable amount of data loss measured in hours before disaster occurs
 
 ### Recovery Time Objective/RTO 
-#### how long do you want to be offline after recovery process has started or how long the recovery 
-  process will take to finish after the disaster recovery process has been 
-  kicked off.
+#### how long do you want to be offline after recovery process has started or how long the recovery process will take to finish after the disaster recovery process has been kicked off.
 
 - For example, an RTO of 2 hours and an RPO of 15 minutes would mean all systems 
 would be recovered in two hours or less and consistent to within 15 minutes of 

@@ -68,13 +68,13 @@ Instead you can add a new VPC with CIDR with say 10.0.1.0/24 (meaning additional
 
 ## Security groups vs. NACLs
 
-| Security Groups                                                                                              	| NACLs                                                                   	|
-|--------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------	|
-| operates at instance/EC2 level 	                                                                            | operates at VPC/subnets level                                           	|
-| supports allow only rules                                                                                    	| supports both allow and deny rules                                      	|
-| is stateful: return traffic is allowed automatically                                                         	| is stateless: return traffic must be explicitly allowed                 	|
-| evaluates all rules before deciding whether to allow traffic                                                 	| evaluates rules from ascending order to decide whether to allow traffic 	|
-| applies to an instance only i.e. must specify security group while launching an instance or must apply later 	| automatically applies to all instances in subnet                        	|
+| Security Groups 	| NACLs  |                                                               
+|-----------------	|-----|
+| operates at instance/EC2 level | operates at VPC/subnets level |
+| supports allow only rules | supports both allow and deny rules |
+| is stateful: return traffic is allowed automatically | is stateless: return traffic must be explicitly allowed |
+| evaluates all rules before deciding whether to allow traffic | evaluates rules from ascending order to decide whether to allow traffic |
+| applies to an instance only i.e. must specify security group while launching an instance or must apply later | automatically applies to all instances in subnet |            
 
 ## Subnet or Subnetwork
 - A VPC spans all of the Availability Zones in the Region. 
